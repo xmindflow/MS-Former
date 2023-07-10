@@ -1,0 +1,6 @@
+torch
+einops
+torchvision
+cv2
+numpy
+tqdm
