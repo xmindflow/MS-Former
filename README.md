@@ -14,7 +14,7 @@ pip install -r requirements.txt
 ```
 
 ## Run Demo
-Put your input images in the ```input/image folder``` and just simply run the ```MSFormer.ipynb``` notebook ;)
+Put your input images in the ```input/image``` folder and just simply run the ```MSFormer.ipynb``` notebook ;)
 
 ## Citation
 If this code helps with your research, please consider citing the following paper:
